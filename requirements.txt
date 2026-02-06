@@ -3,6 +3,8 @@ pandas
 numpy
 matplotlib
 plotly
+folium
+streamlit-folium
 beautifulsoup4
 requests
 openpyxl
