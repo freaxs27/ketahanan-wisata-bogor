@@ -1,6 +1,8 @@
-pandas
 streamlit
-matplotlib,pylot
-folium
-streamlit_folium
-os
+pandas
+numpy
+matplotlib
+plotly
+beautifulsoup4
+requests
+openpyxl
